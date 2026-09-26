@@ -3,9 +3,9 @@
 		{"id":"41d2dd512ea82b9c","type":"group","x":240,"y":1040,"width":400,"height":580,"label":"Гора фудзи 5-7 марта"},
 		{"id":"db1816bdd0f6af94","type":"group","x":-840,"y":80,"width":400,"height":480,"label":"Токио 2 марта - 5 марта"},
 		{"id":"9a37208dbb6e8283","type":"group","x":-840,"y":-460,"width":400,"height":402,"label":"Пекин 27 февраля - 2 марта"},
-		{"id":"bce9fba2d413b7d8","type":"group","x":-500,"y":800,"width":400,"height":400,"label":"Сидзуока 5-7 марта"},
+		{"id":"bce9fba2d413b7d8","type":"group","x":-500,"y":840,"width":400,"height":400,"label":"Сидзуока 5-7 марта"},
 		{"id":"acd6a31821e64545","type":"group","x":-1200,"y":840,"width":400,"height":400,"label":"Нагоя 5-7 марта"},
-		{"id":"9ac36987de08bee7","x":-337,"y":1442,"width":400,"height":400,"type":"group","label":"Киото"},
+		{"id":"9ac36987de08bee7","x":-860,"y":1620,"width":400,"height":400,"type":"group","label":"Киото"},
 		{"id":"a7f09789a99f7856","type":"text","text":"https://ru.trip.com/flights/showfarefirst?pagesource=list&triptype=MT&class=Y&quantity=4&childqty=0&babyqty=0&jumptype=Timeout&multdcity0=MOW&multacity0=BJS&multddate0=2027-02-26&multdcity1=BJS&multacity1=TYO&multddate1=2027-03-02&multdcity2=OSA&multacity2=MOW&multddate2=2027-03-13&airline=&locale=ru-RU&curr=RUB","x":-340,"y":-910,"width":250,"height":60},
 		{"id":"2d141fc66ad19461","type":"text","text":"Стоимость билета 59100 на человека\n","x":-380,"y":-750,"width":250,"height":60},
 		{"id":"5b6453716b2b54f5","type":"text","text":"Поезд в Нагоя 3300 ","x":-1120,"y":680,"width":250,"height":60},
@@ -22,9 +22,10 @@
 		{"id":"999dc2b1ef354574","type":"text","text":"Куда и что будем делать в Токио","x":143,"y":-120,"width":250,"height":60},
 		{"id":"28259c0cf27f6ac3","type":"file","file":"Март поездка/Отели/Токио 2 марта - 5 марта/Akabane Holic Hotel.md","x":-820,"y":120,"width":360,"height":180},
 		{"id":"bebf58183b56f140","type":"file","file":"Март поездка/Отели/Токио 2 марта - 5 марта/Hotel Metropolitan Tokyo Ikebukuro (5 звезд).md","x":-820,"y":340,"width":360,"height":141},
-		{"id":"b05054c84a5e467c","type":"file","file":"Март поездка/Отели/5 марта - 7 марта/Сидзуока/Nakajimaya Grand Hotel.md","x":-484,"y":852,"width":362,"height":145},
 		{"id":"e15590487eec7619","type":"text","text":"Сидзуока ПОЕЗД 3к ","x":-428,"y":680,"width":250,"height":60},
-		{"id":"ee4b7789e15688e1","x":-428,"y":1272,"width":250,"height":60,"type":"text","text":"5500 билет до КИОТО"}
+		{"id":"b05054c84a5e467c","type":"file","file":"Март поездка/Отели/5 марта - 7 марта/Сидзуока/Nakajimaya Grand Hotel.md","x":-484,"y":892,"width":362,"height":145},
+		{"id":"ee4b7789e15688e1","x":-428,"y":1364,"width":250,"height":60,"type":"text","text":"5500 билет до КИОТО"},
+		{"id":"7e27f84443028a8d","x":-1120,"y":1364,"width":250,"height":60,"type":"text","text":"2900 билет до Киото"}
 	],
 	"edges":[
 		{"id":"fd3beb5212236753","fromNode":"76438e30623f008f","fromSide":"bottom","toNode":"9a37208dbb6e8283","toSide":"top"},
@@ -40,6 +41,9 @@
 		{"id":"f4cc99483f42fb8c","fromNode":"e15590487eec7619","fromSide":"bottom","toNode":"bce9fba2d413b7d8","toSide":"top"},
 		{"id":"61303c84a35838ac","fromNode":"5b6453716b2b54f5","fromSide":"bottom","toNode":"acd6a31821e64545","toSide":"top"},
 		{"id":"0e9f5176791e5505","fromNode":"db1816bdd0f6af94","fromSide":"bottom","toNode":"5b6453716b2b54f5","toSide":"top"},
-		{"id":"c48e16c1dee04346","fromNode":"bce9fba2d413b7d8","fromSide":"bottom","toNode":"ee4b7789e15688e1","toSide":"top"}
+		{"id":"c48e16c1dee04346","fromNode":"bce9fba2d413b7d8","fromSide":"bottom","toNode":"ee4b7789e15688e1","toSide":"top"},
+		{"id":"63bd514345f521ea","fromNode":"ee4b7789e15688e1","fromSide":"bottom","toNode":"9ac36987de08bee7","toSide":"top"},
+		{"id":"89c1947f231e2904","fromNode":"acd6a31821e64545","fromSide":"bottom","toNode":"7e27f84443028a8d","toSide":"top"},
+		{"id":"cab069eedd9b394e","fromNode":"7e27f84443028a8d","fromSide":"bottom","toNode":"9ac36987de08bee7","toSide":"top"}
 	]
 }
