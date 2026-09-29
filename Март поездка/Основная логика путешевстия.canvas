@@ -12,7 +12,7 @@
 		{"id":"acd6a31821e64545","type":"group","x":-1200,"y":840,"width":400,"height":400,"label":"Нагоя 5-7 марта"},
 		{"id":"3a5dd717a8413ac4","type":"group","x":-860,"y":2400,"width":400,"height":400,"label":"Осака 11-15 марта"},
 		{"id":"7e2172d242da5275","type":"group","x":2080,"y":2400,"width":400,"height":400,"label":"Осака 11-15 марта"},
-		{"id":"eec99a864d44ae93","type":"group","x":2440,"y":840,"width":400,"height":400,"label":"Сидзуока 13-14 марта"},
+		{"id":"eec99a864d44ae93","type":"group","x":2440,"y":840,"width":400,"height":400,"label":"Сидзуока 12-13 марта"},
 		{"id":"58be0b781aca0c06","type":"group","x":3788,"y":36,"width":400,"height":400,"label":"Хакуба"},
 		{"id":"33732039c8aee6a2","type":"text","text":"Куда и что будем делать в Токио","x":3083,"y":-120,"width":250,"height":60},
 		{"id":"4ba8a10ed81075a7","type":"text","text":"Куда и что будем делать в пекине","x":2760,"y":-440,"width":250,"height":76},
