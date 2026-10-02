@@ -12,12 +12,12 @@
 		{"id":"eec99a864d44ae93","type":"group","x":2440,"y":840,"width":400,"height":400,"label":"Сидзуока 12-13 марта"},
 		{"id":"58be0b781aca0c06","type":"group","x":3788,"y":36,"width":400,"height":400,"label":"Хакуба"},
 		{"id":"04187f643169eb7d","x":626,"y":-911,"width":400,"height":400,"type":"group","label":"Билет 6-23 марта "},
+		{"id":"63b6a684f047aa8e","x":426,"y":-1660,"width":400,"height":400,"type":"group","label":"27 февраля - 20 марта"},
 		{"id":"9ac36987de08bee7","type":"group","x":-860,"y":1620,"width":400,"height":440,"label":"Киото 7-11 марта"},
 		{"id":"3a5dd717a8413ac4","type":"group","x":-860,"y":2400,"width":400,"height":400,"label":"Осака 11-15 марта"},
 		{"id":"7e2172d242da5275","type":"group","x":2080,"y":2400,"width":400,"height":400,"label":"Осака 11-15 марта"},
 		{"id":"88f7c7991313edb2","type":"file","file":"Март поездка/Отели/5 марта - 7 марта/Гора фудзи 5 марта - 7 марта/HANZ OUTDOOR RESORT.md","x":252,"y":1460,"width":376,"height":121},
 		{"id":"2a20d3e25348de9d","type":"file","file":"Март поездка/Отели/5 марта - 7 марта/Гора фудзи 5 марта - 7 марта/Haostay.md","x":252,"y":1240,"width":376,"height":184},
-		{"id":"dd757562d2c71001","type":"file","file":"Март поездка/Отели/5 марта - 7 марта/Гора фудзи 5 марта - 7 марта/fuyosankyoenka.md","x":252,"y":1080,"width":376,"height":120},
 		{"id":"80eb3f6920f52b6b","type":"text","text":" Ine-cho","x":2,"y":1820,"width":250,"height":60},
 		{"id":"ee4b7789e15688e1","type":"text","text":"5500 билет до КИОТО","x":-428,"y":1364,"width":250,"height":60},
 		{"id":"a53dda38125d3a77","type":"text","text":"Totsukawa\nYoshino-cho","x":-262,"y":1818,"width":250,"height":60},
@@ -68,7 +68,12 @@
 		{"id":"5b6453716b2b54f5","type":"text","text":"Поезд в Нагоя 3300 ","x":-1120,"y":680,"width":250,"height":60},
 		{"id":"47fe54a48cf98a97","type":"text","text":"Едем в фудзи. Поезд 1.5к стоимость(ехать 3 часа)\nhttps://ru.trip.com/trains/asia/list?locale=ru-RU&curr=RUB&tripTab=train&scheduleType=single&biztype=JP&fromSource=homePage&departurecityid=228&departurecountrycode=JP&arrivalcountrycode=JP&arrivalcityid=50160&departdate=2026-10-01&departhouript=00&departminuteipt=00&departurecitycode=JP04454&arrivalcitycode=JP001113580&departurecity=%D0%A2%D0%BE%D0%BA%D0%B8%D0%BE+%28%D0%B2%D1%81%D0%B5%29&arrivalcity=%D0%A4%D1%83%D0%B4%D0%B7%D0%B8%D0%BA%D0%B0%D0%B2%D0%B0%D0%B3%D1%83%D1%82%D0%B8%D0%BA%D0%BE","x":240,"y":800,"width":400,"height":80},
 		{"id":"b05054c84a5e467c","type":"file","file":"Март поездка/Отели/5 марта - 7 марта/Сидзуока/Nakajimaya Grand Hotel.md","x":-484,"y":892,"width":362,"height":145},
-		{"id":"3e3c92e40cc23456","type":"file","file":"Март поездка/photo/photo_2026-09-25_12-01-38.jpg","x":-1720,"y":10,"width":322,"height":400}
+		{"id":"3e3c92e40cc23456","type":"file","file":"Март поездка/photo/photo_2026-09-25_12-01-38.jpg","x":-1720,"y":10,"width":322,"height":400},
+		{"id":"dd757562d2c71001","type":"file","file":"Март поездка/Отели/5 марта - 7 марта/Гора фудзи 5 марта - 7 марта/fuyosankyoenka.md","x":252,"y":1080,"width":376,"height":120},
+		{"id":"f53723dac6444bc9","x":920,"y":-1740,"width":400,"height":195,"type":"file","file":"Pasted image 20261002004442.png"},
+		{"id":"2133c98798635c3a","x":995,"y":-1440,"width":250,"height":60,"type":"text","text":"https://ru.trip.com/flights/showfarefirst?multdcity0=mow&multacity0=bjs&multddate0=2027-02-27&multdcityid0=366&multacityid0=1&multdcity1=bjs&multacity1=tyo&multddate1=2027-03-04&multdcityid1=1&multacityid1=228&multdcity2=osa&multacity2=mow&multddate2=2027-03-20&multdcityid2=219&multacityid2=366&triptype=mt&class=y&lowpricesource=searchform&quantity=4&searchboxarg=t&nonstoponly=off&locale=ru-RU&curr=RUB"},
+		{"id":"b9748a02d7b33420","x":-675,"y":-2220,"width":400,"height":195,"type":"file","file":"Pasted image 20261002005120.png"},
+		{"id":"f88e04bc2bc43a62","x":-600,"y":-1941,"width":250,"height":60,"type":"text","text":"https://ru.trip.com/flights/showfarefirst?multdcity0=mow&multacity0=bjs&multddate0=2027-02-26&multdcityid0=366&multacityid0=1&multdcity1=bjs&multacity1=tyo&multddate1=2027-03-02&multdcityid1=1&multacityid1=228&multdcity2=osa&multacity2=mow&multddate2=2027-03-17&multdcityid2=219&multacityid2=366&triptype=mt&class=y&lowpricesource=searchform&quantity=4&searchboxarg=t&nonstoponly=off&locale=ru-RU&curr=RUB"}
 	],
 	"edges":[
 		{"id":"fd3beb5212236753","fromNode":"76438e30623f008f","fromSide":"bottom","toNode":"9a37208dbb6e8283","toSide":"top"},
@@ -108,6 +113,9 @@
 		{"id":"1265865cdbfd3fe7","fromNode":"39017105f564aa0f","fromSide":"bottom","toNode":"eec99a864d44ae93","toSide":"top"},
 		{"id":"62df9d105af296a8","fromNode":"6d4b6f089a647786","fromSide":"bottom","toNode":"dd3dd743bcf4e96f","toSide":"top"},
 		{"id":"d8e681c8b2d9e207","fromNode":"6d4b6f089a647786","fromSide":"right","toNode":"b060e0e3fde511cf","toSide":"left"},
-		{"id":"c211d3ae745f547f","fromNode":"398f5ca9d1690621","fromSide":"bottom","toNode":"aa33fe2925e9a225","toSide":"top"}
+		{"id":"c211d3ae745f547f","fromNode":"398f5ca9d1690621","fromSide":"bottom","toNode":"aa33fe2925e9a225","toSide":"top"},
+		{"id":"a247ff763aa2dcda","fromNode":"63b6a684f047aa8e","fromSide":"right","toNode":"f53723dac6444bc9","toSide":"left"},
+		{"id":"b8f7829cbad9765f","fromNode":"f53723dac6444bc9","fromSide":"bottom","toNode":"2133c98798635c3a","toSide":"top"},
+		{"id":"8eb3d03237c1f288","fromNode":"b9748a02d7b33420","fromSide":"bottom","toNode":"f88e04bc2bc43a62","toSide":"top"}
 	]
 }
