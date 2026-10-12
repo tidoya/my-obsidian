@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"e4fbeefb22e68fdf","type":"text","text":"Куда и что будем делать в Токио\n\nТочно надо:\n\n\nОчень хочу:\n- [ ] Здание Hermes\n\nПопса, нам это надо?\n- [ ] Выставка teamlab (старая и новая)\n- [ ] Катание на марио картинге по городу\n- [ ] Вечерний вид с панорамы в Шибуя скай\n\nЕщё варианты:\n- [ ] Gotoku-ji (храм с кошечками)\n- [ ] Местные джаз бар\n- [ ] Блошиные рынки по датам\n- [ ] Суши конвейер","x":-418,"y":-220,"width":357,"height":440},
+		{"id":"a2b5fd1c77ab7c81","type":"text","text":"Еда\n\nTokyo fish market\nYatai ramen- рамен на колесах\nIchiran_jp (Ichiran Shinjuku Kabukicho)\n\nYuzu lab noodle shop - рамен с юзу \nShodai - White potato udon curry\nMenchirashi Udon in Omotesando- Карбонара удон 🫪\nDolce Tacubo Ginza - Мишлен мороженое\n\nВайбоао поесть их чикен карри рис (домашняя еда)\n","x":77,"y":-220,"width":342,"height":400}
+	],
+	"edges":[
+		{"id":"a74cb69422b4a526","fromNode":"e4fbeefb22e68fdf","fromSide":"right","toNode":"a2b5fd1c77ab7c81","toSide":"left"}
+	]
+}
