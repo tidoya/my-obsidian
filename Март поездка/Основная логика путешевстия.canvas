@@ -8,6 +8,7 @@
 		{"id":"58be0b781aca0c06","type":"group","x":2160,"y":1605,"width":400,"height":400,"label":"Хаконэ 14-15 марта"},
 		{"id":"7e2172d242da5275","type":"group","x":3520,"y":2390,"width":400,"height":400,"label":"Осака 19-22 марта"},
 		{"id":"8bdcbfc92d05054d","type":"group","x":2160,"y":960,"width":400,"height":400,"label":"Фудзисава 13-14 марта"},
+		{"id":"a6e824d24ecb0eeb","x":3063,"y":-140,"width":877,"height":480,"type":"group","label":"Группа без названия"},
 		{"id":"33732039c8aee6a2","type":"text","text":"Куда и что будем делать в Токио\n\nТочно надо:\n\n\nОчень хочу:\n- [ ] Здание Hermes\n\nПопса, нам это надо?\n- [ ] Выставка teamlab (старая и новая)\n- [ ] Катание на марио картинге по городу\n- [ ] Вечерний вид с панорамы в Шибуя скай\n\nЕщё варианты:\n- [ ] Gotoku-ji (храм с кошечками)\n- [ ] Местные джаз бар\n- [ ] Блошиные рынки по датам\n- [ ] Суши конвейер","x":3083,"y":-120,"width":357,"height":440},
 		{"id":"7e3cebd79042dd4e","type":"text","text":"Еда\n\nTokyo fish market\nYatai ramen- рамен на колесах\nIchiran_jp (Ichiran Shinjuku Kabukicho)\n\nYuzu lab noodle shop - рамен с юзу \nShodai - White potato udon curry\nMenchirashi Udon in Omotesando- Карбонара удон 🫪\nDolce Tacubo Ginza - Мишлен мороженое\n\nВайбоао поесть их чикен карри рис (домашняя еда)\n","x":3578,"y":-120,"width":342,"height":400},
 		{"id":"227a9cc1c2457b99","type":"file","file":"Март поездка/Путеводитель/Фудзисава 13-14 марта.canvas","x":2765,"y":960,"width":400,"height":400},
@@ -39,13 +40,12 @@
 		{"id":"6d4b6f089a647786","type":"file","file":"Pasted image 20260928220944.png","x":2100,"y":-1000,"width":399,"height":325},
 		{"id":"a9c7002cbcbf7bec","type":"text","text":"5500 билет до КИОТО","x":4670,"y":2045,"width":250,"height":60},
 		{"id":"b060e0e3fde511cf","type":"text","text":"https://ru.trip.com/flights/ShowFareNext?pagesource=list&triptype=MT&class=Y&quantity=4&childqty=0&babyqty=0&jumptype=GoToNextJournay&multdcity0=MOW&multacity0=BJS&multddate0=2027-03-05&multdcity1=BJS&multacity1=TYO&multddate1=2027-03-09&multdcity2=OSA&multacity2=MOW&multddate2=2027-03-22&currentseqno=3&criteriaToken=SGP_SGP-NOR_PIDReduce-y96NhOno20260928190453%5EqsczG7bGXomUaQVS&shoppingid=SGP_SGP-NOR_PIDReduce-y96NhOno20260928190453%5EList-EYXS1z&groupKey=SGP_SGP-NOR_PIDReduce-y96NhOno20260928190453%5EList-EYXS1z&airline=&locale=ru-RU&curr=RUB","x":2640,"y":-1000,"width":250,"height":73},
-		{"id":"0c62bc772d9eb177","x":4040,"y":1779,"width":250,"height":60,"type":"text","text":"Что делаем\n"},
-		{"id":"c70ba6494eb75937","x":4008,"y":2561,"width":250,"height":60,"type":"text","text":"Что делаем\nKatsuoji Temple"}
+		{"id":"0c62bc772d9eb177","type":"text","text":"Что делаем\n","x":4040,"y":1779,"width":250,"height":60},
+		{"id":"c70ba6494eb75937","type":"text","text":"Что делаем\nKatsuoji Temple","x":4008,"y":2561,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"c8f44a01dd08bb1c","fromNode":"e64ba0571851fcf8","fromSide":"right","toNode":"33732039c8aee6a2","toSide":"left"},
 		{"id":"9c203b544a14d867","fromNode":"796f978046c58fca","fromSide":"bottom","toNode":"e64ba0571851fcf8","toSide":"top"},
-		{"id":"35c330a63f023739","fromNode":"7cfef7bc1aa39788","fromSide":"bottom","toNode":"5b9c0574be09eba4","toSide":"top"},
 		{"id":"3e796a8761006c88","fromNode":"dd3dd743bcf4e96f","fromSide":"right","toNode":"4ba8a10ed81075a7","toSide":"left"},
 		{"id":"9c417dab07b66739","fromNode":"dd3dd743bcf4e96f","fromSide":"bottom","toNode":"796f978046c58fca","toSide":"top"},
 		{"id":"62df9d105af296a8","fromNode":"6d4b6f089a647786","fromSide":"bottom","toNode":"dd3dd743bcf4e96f","toSide":"top"},
@@ -58,9 +58,9 @@
 		{"id":"67d9cdf8b98d7bca","fromNode":"8bdcbfc92d05054d","fromSide":"bottom","toNode":"0699361d625d76dd","toSide":"top"},
 		{"id":"b98b7197bc7023a4","fromNode":"0699361d625d76dd","fromSide":"bottom","toNode":"58be0b781aca0c06","toSide":"top"},
 		{"id":"e1282d36d8bb1576","fromNode":"8bdcbfc92d05054d","fromSide":"right","toNode":"227a9cc1c2457b99","toSide":"left"},
+		{"id":"35c330a63f023739","fromNode":"7cfef7bc1aa39788","fromSide":"bottom","toNode":"5b9c0574be09eba4","toSide":"top"},
 		{"id":"857a3ea322482c5a","fromNode":"33732039c8aee6a2","fromSide":"right","toNode":"7e3cebd79042dd4e","toSide":"left"},
 		{"id":"bb8ec17b925d0ed6","fromNode":"7cfef7bc1aa39788","fromSide":"right","toNode":"0c62bc772d9eb177","toSide":"left"},
-		{"id":"d673158b5b0753c5","fromNode":"7e2172d242da5275","fromSide":"right","toNode":"c70ba6494eb75937","toSide":"left"},
-		{"id":"b734f2266b72bbe8","fromNode":"c70ba6494eb75937","fromSide":"bottom","toNode":"d95fdfa8b8fea5ad","toSide":"top"}
+		{"id":"d673158b5b0753c5","fromNode":"7e2172d242da5275","fromSide":"right","toNode":"c70ba6494eb75937","toSide":"left"}
 	]
 }
